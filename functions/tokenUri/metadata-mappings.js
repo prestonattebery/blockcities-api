@@ -3,8 +3,8 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'Westin Base',
-            3: 'ATT Base',
+            2: '210 Peachtree Base',
+            3: '675 West Peachtree Base',
             4: 'Aston Base',
             5: 'Tree Base',
         },
@@ -34,9 +34,9 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'Westin Base',
-            3: 'ATT Base',
-            4: 'Aston Base',
+            2: '210 Peachtree Base',
+            3: '675 West Peachtree Base',
+            4: '200 E Illinois Base',
             5: 'Retail Base',
             6: 'Tree Base',
         },
@@ -59,9 +59,9 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'Westin Base',
-            3: 'ATT Base',
-            4: 'Aston Base',
+            2: '210 Peachtree Base',
+            3: '675 West Peachtree Base',
+            4: '200 E Illinois Base',
             5: 'Retail Base',
             6: 'Tree Base',
             7: 'Transit',
@@ -86,7 +86,7 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'ATT Base',
+            2: '675 West Peachtree Base',
         },
         bodies: {
             0: 'Vertical',
@@ -110,9 +110,9 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'Westin Base',
-            3: 'ATT Base',
-            4: 'Aston Base',
+            2: '210 Peachtree Base',
+            3: '675 West Peachtree Base',
+            4: '200 E Illinois Base',
             5: 'Retail Base',
             6: 'Tree Base',
         },
@@ -140,9 +140,9 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'Westin Base',
-            3: 'ATT Base',
-            4: 'Aston Base',
+            2: '210 Peachtree Base',
+            3: '675 West Peachtree Base',
+            4: '200 E Illinois Base',
             5: 'Retail Base',
             6: 'Tree Base',
             7: 'Transit',
@@ -173,9 +173,9 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'Westin Base',
-            3: 'Aston Base',
-            4: 'ATT Base',
+            2: '210 Peachtree Base',
+            3: '200 E Illinois Base',
+            4: '675 West Peachtree Base',
             5: 'Tree Base',
         },
         bodies: {
@@ -195,7 +195,7 @@ module.exports = {
     7: {
         bases: {
             0: 'Standard',
-            1: 'ATT Base',
+            1: '675 West Peachtree Base',
             2: 'Retail Base',
         },
         bodies: {
@@ -216,8 +216,8 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'ATT Base',
-            3: 'Aston Base',
+            2: '675 West Peachtree Base',
+            3: '200 E Illinois Base',
             4: 'Retail Base',
             5: 'Tree Base',
         },
@@ -238,7 +238,7 @@ module.exports = {
     9: {
         bases: {
             0: 'Standard',
-            1: 'ATT Base',
+            1: '675 West Peachtree Base',
         },
         bodies: {
             0: 'Rectangle',
@@ -260,9 +260,9 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'Westin Base',
-            3: 'ATT Base',
-            4: 'Aston Base',
+            2: '210 Peachtree Base',
+            3: '675 West Peachtree Base',
+            4: '200 E Illinois Base',
             5: 'Retail Base',
             6: 'Tree Base',
         },
@@ -289,8 +289,8 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'Westin Base',
-            3: 'ATT Base',
+            2: '210 Peachtree Base',
+            3: '675 West Peachtree Base',
             4: 'Retail Base',
             5: 'Tree Base',
         },
@@ -301,7 +301,7 @@ module.exports = {
         },
         roofs: {
             0: 'Standard',
-            1: 'Aston Abr',
+            1: '200 E Illinois Abr',
             2: 'Pool Roof',
             3: '885 6th Ave',
             4: 'Helipad',
@@ -312,9 +312,9 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'Westin Base',
-            3: 'ATT Base',
-            4: 'Aston Base',
+            2: '210 Peachtree Base',
+            3: '675 West Peachtree Base',
+            4: '200 E Illinois Base',
             5: 'Retail Base',
             6: 'Tree Base',
         },
@@ -345,9 +345,9 @@ module.exports = {
         bases: {
             0: 'Standard',
             1: 'Parking Deck',
-            2: 'Westin Base',
-            3: 'ATT Base',
-            4: 'Aston Base',
+            2: '210 Peachtree Base',
+            3: '675 West Peachtree Base',
+            4: '200 E Illinois Base',
             5: 'Retail Base',
             6: 'Tree Base',
         },
@@ -377,7 +377,7 @@ module.exports = {
             0: 'Standard',
             1: 'Parking Deck',
             2: 'Westin Base',
-            3: 'ATT Base',
+            3: '675 West Peachtree Base',
             4: 'Tree Base',
         },
         bodies: {
@@ -405,10 +405,10 @@ module.exports = {
     15: {
         bases: {
             0: 'Standard',
-            1: 'Westin Base',
+            1: '210 Peachtree Base',
             2: 'Parking Deck',
-            3: 'ATT Base',
-            4: 'Aston Base',
+            3: '675 West Peachtree Base',
+            4: '200 E Illinois Base',
             5: 'Tree Base',
             6: 'Transit',
         },
